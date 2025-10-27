@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.firstClass{
+    background-color: rgb(238, 143, 143);
+}
+
+#firstID{
+    color: blue;
+    font-size: 32px;
+}
+
+.coolerClass{
+    font-size: 26px;
+    background-color: rgb(238, 143, 143);
+}
+
+#anotherID{
+    background-color: rgb(86, 228, 86);
+    font-weight: bold;
+    font-size: 22px;
+}
